@@ -1,0 +1,12 @@
+com\example\CountryService.class
+com\example\entities\Country.class
+com\example\Main.class
+com\example\DepartmentComponent.class
+com\example\AppConfig.class
+com\example\repo\DepartmentRepository.class
+com\example\MedicineComponent.class
+com\example\repo\MedicineRepository.class
+com\example\entities\Department.class
+com\example\entities\Medicine.class
+com\example\CountryComponent.class
+com\example\repo\CountryRepository.class
